@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mj-e-boc
-- 👀 I’m interested in ...Java programing, Data Sciecne and Software engineering
+- 👀 I’m interested in ...Java programing, Data Science and Software engineering
 - 🌱 I’m currently learning ... JS, React, node.js,angular
 - 💞️ I’m looking to collaborate on ...Cybersecurity and software engineering
 - 📫 How to reach me ... Instagram @mj_e_boc
