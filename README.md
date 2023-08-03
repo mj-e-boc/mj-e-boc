@@ -7,7 +7,7 @@ I'm a passionate Software Engineer with expertise in front-end development. I lo
 <!-- GitHub Stats -->
 ## GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mj-e-boc&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mj-e-boc&show_icons=true&theme=radical&hide_rank=true)
 
 <!-- Main Languages and Tools -->
 ## Main Languages and Tools
