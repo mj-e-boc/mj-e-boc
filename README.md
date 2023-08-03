@@ -28,11 +28,11 @@ I'm a passionate Software Engineer with expertise in front-end development. I lo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-mjonono-86365988/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MjononoRonald)
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mj_e_boc/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mj_e_boc/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mjononoronald@gmail.com)
 
 <!-- Visitors Counter -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=mj-e-boc.mj-e-boc)
+<!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=mj-e-boc.mj-e-boc)-->
 
 <!-- GitHub Profile Trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=mj-e-boc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
