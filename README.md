@@ -41,4 +41,4 @@ I'm a passionate Software Engineer with expertise in front-end development. I lo
 [![trophy](https://github-profile-trophy.vercel.app/?username=mj-e-boc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- GitHub Extra Pins -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mj-e-boc&theme=radical)](https://github.com/mj-e-boc/github-readme-stats)
+
