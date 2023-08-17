@@ -20,7 +20,6 @@ I'm a passionate Software Engineer with expertise in front-end development. I lo
 
 <!-- Top Repositories -->
 ## Top Repositories
-[![Top Specific Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=mj-e-boc&hide=html&exclude_repo=Awesome-Books,To-Do-List,Leaderboard)](https://github.com/mj-e-boc)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mj-e-boc)](https://github.com/anuraghazra/github-readme-stats)
