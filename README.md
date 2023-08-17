@@ -22,7 +22,9 @@ I'm a passionate Software Engineer with expertise in front-end development. I lo
 ## Top Repositories
 [![Top Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=mj-e-boc)](https://github.com/mj-e-boc)
 
-[![Repo 2 Name](https://github-readme-stats.vercel.app/api/pin/?username=mj-e-boc&repo=Awesome-Books&theme=radical)](https://github.com/mj-e-boc/Awesome-Books)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mj-e-boc)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!-- Let's Connect -->
 ## Let's Connect
