@@ -2,7 +2,7 @@
 # Hello, I'm [Ronald](https://yourwebsite.com) 👋
 
 <!-- A short introduction about yourself -->
-I'm a passionate Software Engineer with expertise in front-end development. I love working on projects that challenge me and allow me to learn and grow as a developer.
+I'm a data science and business analytics enthusiast with a strong foundation in mathematics, statistics, and coding. Currently pursuing my master's at the University of Warsaw, I'm passionate about uncovering insights through data, solving complex problems, and creating actionable solutions.
 
 <!-- GitHub Stats -->
 ## GitHub Stats
